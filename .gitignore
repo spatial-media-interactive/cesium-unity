@@ -22,3 +22,7 @@ libCesiumForUnityNative-*.so
 libCesiumForUnityNative-*.so.meta
 libCesiumForUnityNative-*.dylib
 libCesiumForUnityNative-*.dylib.meta
+# General MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
